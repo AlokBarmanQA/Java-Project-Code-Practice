@@ -19,5 +19,4 @@ public class Multiplication_Table {
 		}
 		sc.close();
 	}
-
 }
