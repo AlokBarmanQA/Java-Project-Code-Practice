@@ -3,7 +3,7 @@ package basic_practice;
 import java.util.Scanner;
 
 public class Multiplication_Table {
-
+//	https://www.w3resource.com/java-exercises/basic/index.php
 	public static void main(String[] args) {
 		// Write a Java program that takes a number as input and prints its multiplication table upto 10.
 
