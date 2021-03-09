@@ -4,7 +4,7 @@ public class Student {
 	int rollno;
 	String name;
 	String address;
-	
+
 	public Student(int rollno, String name, String address) {
 //		super();
 		this.rollno = rollno;

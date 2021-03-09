@@ -1,7 +1,7 @@
 package basic_practice;
 
 public class Area_Perimeter {
-
+	
 	public static void main(String[] args) {
 		// Write a Java program to print the area and perimeter of a circle.
 		

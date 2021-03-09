@@ -6,7 +6,7 @@ import java.util.Collections;
 public class Student_Test {
 
 	public static void main(String[] args) {
-		
+	
 		ArrayList<Student> list = new ArrayList<Student>();
 		list.add(new Student(113, "aaaa", "Pennsylvania"));
 		list.add(new Student(111, "cccc", "New York"));
