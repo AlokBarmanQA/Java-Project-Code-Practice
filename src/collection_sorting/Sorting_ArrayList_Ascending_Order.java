@@ -17,8 +17,7 @@ public class Sorting_ArrayList_Ascending_Order {
 		System.out.println("After sorting: "+ list);
 		
 		Collections.sort(list, Collections.reverseOrder());
-		System.out.println("Reverse order sorting: "+ list);
-		
+		System.out.println("Reverse order sorting: "+ list);		
 	}
 
 }

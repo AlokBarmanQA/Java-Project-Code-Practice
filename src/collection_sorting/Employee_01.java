@@ -1,7 +1,7 @@
 package collection_sorting;
 
 public class Employee_01 implements Comparable<Employee_01>{
-
+	
     private Integer id;
     
     public Integer getId() {
